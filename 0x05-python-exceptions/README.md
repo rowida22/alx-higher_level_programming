@@ -1,1 +1,1 @@
-I am not empty
+Read me exception
