@@ -1,4 +1,5 @@
 -- comment
+DROP USER IF EXISTS 'user_0d_1'@'localhost';
 CREATE USER IF NOT EXISTS 'user_0d_1'@ 'localhost'
 IDENTIFIED WITH 'user_0d_1';
 GRANT ALL PRIVILEGES ON *.* TO 'user_0d_1'@ 'localhost';
